@@ -1,0 +1,15 @@
+{
+  "name": "Ruski plugin",
+  "author": "0day",
+  "version": "1.2.12",
+  "minVersion": "1.128.3",
+  "supportedVersion": "1.130.1",
+  "basePackage": "eu.darkbot.ruski",
+  "features": [
+    "eu.darkbot.ruski.behaviours.ammosaver.AmmoSaver",
+    "eu.darkbot.ruski.modules.oreseller.OreSeller",
+    "eu.darkbot.ruski.behaviours.autodisconnect.AutoDisconnect"
+  ],
+  "download": "https://gist.github.com/0dayYakuza/45336ed33629f66426860ddcc1e1236a/raw/RuskiPlugin.jar",
+  "update": "https://gist.github.com/0dayYakuza/45336ed33629f66426860ddcc1e1236a/raw/plugin.json"
+}
